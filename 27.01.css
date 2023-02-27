@@ -1,0 +1,35 @@
+ul{
+    color: fuchsia;
+    background-color: lavender;
+    width: 400px;
+    list-style-type: square;
+}
+
+li{
+    font-family: Calibri;
+    font-size: 25px;
+}
+
+ul li{
+    font-family: SansSerif;
+
+}
+
+#list1{
+    color: green;
+}
+
+#list2{
+    color:red;
+}
+
+ol{
+    list-style-type: decimal;
+    background-color: skyblue;
+    width: 300px;
+}
+
+#special{
+    list-style-type: upper-latin;
+    width: inherit;
+
